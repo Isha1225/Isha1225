@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isha1225
 - 👀 I’m interested in Python and Human Resource Management
 - 🌱 I’m currently learning Python and GCP!
-- 💞️ I’m looking to collaborate on innovative python projects that can be done at home.
+- 💞️ I’m looking to collaborate on innovative python projects.
 - 📫 How to reach me : ✉️ shukla.isha@outlook.com
 
 <!---
